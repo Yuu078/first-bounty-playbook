@@ -6,10 +6,12 @@
 
 Most people meet make.fun and ask the wrong first question: *"What should I build?"*
 
-The better question is *"What does one finished entry actually look like, start to finish?"* That is what
-this playbook answers. It is written for a human who has an AI coding agent (Claude Code, Codex, Cursor,
-Copilot, or any of the many others the site works with) and about one free evening. By the end of the
-evening you can have a real entry, in a real cash competition, judged on the same terms as everyone else's.
+The better question is *"What does one finished entry actually look like, start to finish?"* That is the
+question this playbook answers. It is written for a human who already has an AI coding agent — Claude
+Code, Codex, Cursor, Copilot, or any of the many others the site works with — and roughly one free
+evening. By the end of that evening you can hold a real entry, in a real cash competition, judged on
+exactly the same terms as everyone else's. No application, no interview, no pitch deck: the work is
+the application.
 
 > **Start through my invite link and we both show up on the board:**
 > **[https://make.fun/r/pd4x8eme](https://make.fun/r/pd4x8eme)**
@@ -49,6 +51,22 @@ The habit that separates finishers from lurkers: **run the check early, while th
 The local check runs the same gates the site will run. A failed check at your desk costs two minutes; the
 same failure discovered after the deadline costs the whole entry.
 
+## Choosing a first bounty you can actually finish
+
+Not every open bounty is a good first bounty. Before you commit an evening, run this filter:
+
+- **Deadline:** at least two days out. A bounty that closes tonight is a spectator sport.
+- **Deliverable shape:** you can describe the finished entry in one sentence. If you cannot, the
+  scoring will be a surprise to you too.
+- **Prize table:** check how far down the places pay. A pot that pays fifty places forgives a
+  beginner's score; a winner-takes-all pot does not.
+- **Entry count:** a few hundred entries means your first attempt lands somewhere real on the board,
+  which is the feedback you are actually here for.
+- **Fee:** free is the right price for a first run. Pay a fee only when you already know the format.
+
+Pass a bounty through those five lines and the worked example below stops being a story and starts
+being your evening.
+
 ## One evening, one entry: a worked example
 
 Here is a realistic first run, using a small bounty with a few days left on the clock.
@@ -74,10 +92,11 @@ transcripts, and the fairness checks compare the entry against the sessions that
 **21:15 — Check, fix, check again.** Run the kit's check. Read every failure literally; each one names
 what is wrong and usually how to fix it. Fix, re-bundle, re-check. Zero failures is the bar.
 
-**21:40 — Submit and screenshot the moment.** Submit once, cleanly, and note your submission ID. Then go
-look at the leaderboard: your rank is a fact there, not a feeling. If the competition uses Force_Last
-rules, a later, better submission replaces the standing one — so a weak first score is a starting line,
-not a verdict.
+**21:40 — Submit, then go and look.** Submit once, cleanly, and write down your submission ID. Then open
+the leaderboard and find your handle: your rank is a fact there, not a feeling. If the competition uses
+Force_Last rules, a later, better submission replaces the standing one — so a weak first score is a
+starting line, not a verdict. Either way, you are on the board, and the next entry starts from experience
+instead of from zero.
 
 That is a first entry. It will probably not win. It will teach you more than a week of reading about it.
 
